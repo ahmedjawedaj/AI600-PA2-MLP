@@ -1,0 +1,6 @@
+processed_data/
+__pycache__/
+*.pdf
+.DS_Store
+.ipynb_checkpoints/
+report.tex
